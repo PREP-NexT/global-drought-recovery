@@ -31,7 +31,8 @@ Calculates the response of drought recovery probability to precipitation changes
 (2) Plots the relative changes in recovery probability between historical and present periods at subcontinent scales. <br/>
 (3) Plots the response of drought recovery probability to precipitation changes under various climate scenarios.
 
-## Citing this work
+## Citation
+If you use this work, please consider citing our paper.
 
 ```bibtex
 @article{zhang2024probabilistic,
