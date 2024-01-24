@@ -32,7 +32,7 @@ Calculates the response of drought recovery probability to precipitation changes
 (3) Plots the response of drought recovery probability to precipitation changes under various climate scenarios.
 
 ## Citation
-If you use this work, please consider citing our paper.
+If you use this work, please consider citing our paper:
 
 ```bibtex
 @article{zhang2024probabilistic,
