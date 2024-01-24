@@ -1,6 +1,6 @@
 # Probabilistic Assessment of Global Drought Recovery and Its Response to Precipitation Changes
 
-This repository contains the necessary Python code to quantify global drought recovery probability based on Vine Copula, introduced in the [AGU 2024](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106067) paper
+This repository contains the necessary Python code to quantify global drought recovery probability based on Vine Copula, introduced in the [AGU 2024](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106067) paper:
 
 *<center>"Probabilistic Assessment of Global Drought Recovery and Its Response to Precipitation Changes".</center>*
 
@@ -16,7 +16,7 @@ This repository contains the necessary Python code to quantify global drought re
 The scripts should be run in the following order:
 
 #### 1. global_drought_events.py
-Loads the data and extract characteristics of drought events.
+Loads the data and extract characteristics of drought events
 
 #### 2. find_severe_droughts.py
 Find the most severe drought event for each grid during the past 66 years (1951-2016)
