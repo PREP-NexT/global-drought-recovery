@@ -1,8 +1,5 @@
-# global-drought-recovery
-Python code to Quantify global drought recovery probability based on Vine Copula
-
-## License
-This work is licensed under the GNU General Public License v3.0. For details please read LICENSE.txt.
+# Probabilistic Assessment of Global Drought Recovery and Its Response to Precipitation Changes
+This repository contains the necessary Python code to quantify global drought recovery probability based on Vine Copula, introduced in the [AGU 2024](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106067) paper.
 
 ## Usage
 The scripts should be run in the following order:
@@ -39,3 +36,6 @@ Calculate the response of drought recovery probability to precipitation changes
   publisher={Wiley Online Library}
 }
 ```
+
+## Code License
+This work is licensed under the GNU General Public License v3.0. For details please read LICENSE.txt.
