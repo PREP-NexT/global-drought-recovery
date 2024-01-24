@@ -24,3 +24,18 @@ Calculate the response of drought recovery probability to precipitation changes
 (1) Plot the global recovery probability
 (2) Plot the relative changes in recovery probability between historical and present periods at subcontinent scales
 (3) Plot the response of drought recovery probability to precipitation changes under various climate scenarios
+
+## Citing this work
+
+```bibtex
+@article{zhang2024probabilistic,
+  title={Probabilistic assessment of global drought recovery and its response to precipitation changes},
+  author={Zhang, Limin and Yuan, Fei and He, Xiaogang},
+  journal={Geophysical Research Letters},
+  volume={51},
+  number={1},
+  pages={e2023GL106067},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+```
