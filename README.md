@@ -1,6 +1,6 @@
 # Probabilistic Assessment of Global Drought Recovery and Its Response to Precipitation Changes
 
-This repository contains the Python scripts to quantify global drought recovery probability based on a Vine-Copula framework, introduced in the [AGU 2024](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106067) paper:
+This repository contains the Python scripts to quantify global drought recovery probability based on a Vine-Copula framework, introduced in the paper [Probabilistic Assessment of Global Drought Recovery and Its Response to Precipitation Changes](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106067):
 
 *<center>"Probabilistic Assessment of Global Drought Recovery and Its Response to Precipitation Changes"</center>*
 
