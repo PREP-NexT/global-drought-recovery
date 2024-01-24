@@ -2,10 +2,6 @@
 
 This repository contains the Python scripts to quantify global drought recovery probability based on a Vine-Copula framework, introduced in the paper [Probabilistic Assessment of Global Drought Recovery and Its Response to Precipitation Changes](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106067):
 
-*<center>"Probabilistic Assessment of Global Drought Recovery and Its Response to Precipitation Changes"</center>*
-
-</br>
-
 <center>
 <img alt="fig1" width="800px" src="fig1.png">
 </center>
@@ -20,8 +16,8 @@ Loads the data and extracts characteristics of drought events.
 Identifies the most severe drought event for each grid during the past 66 years (1951-2016).
 
 #### 3. `global_drought_recovery_probability.py`
-(1) Calculates the likelihoods of drought recovery in both historcial (1951-1983) and present (1984-2016) periods. <br />
-(2) Evaluates whether changes in recovery probability between historical and present periods are statistically significant.
+- Calculates the likelihoods of drought recovery in both historcial (1951-1983) and present (1984-2016) periods. <br />
+- Evaluates whether changes in recovery probability between historical and present periods are statistically significant.
 
 #### 4. `elasticity_analysis.py`
 Calculates the response of drought recovery probability to precipitation changes.
