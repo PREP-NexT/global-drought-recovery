@@ -2,11 +2,7 @@
 
 This repository contains the necessary Python code to quantify global drought recovery probability based on Vine Copula, introduced in the [AGU 2024](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106067) paper:
 
-*<center>"Probabilistic Assessment of Global Drought Recovery and Its Response to Precipitation Changes".</center>*
-
-
-</br>
-
+*<center>"Probabilistic Assessment of Global Drought Recovery and Its Response to Precipitation Changes"</center>*
 
 <center>
 <img alt="fig1" width="800px" src="fig1.png">
@@ -29,8 +25,8 @@ Evaluate whether changes in recovery probability between historical and present 
 Calculate the response of drought recovery probability to precipitation changes
 
 #### 5. `plot.py`
-(1) Plot the global recovery probability
-(2) Plot the relative changes in recovery probability between historical and present periods at subcontinent scales
+(1) Plot the global recovery probability <br />
+(2) Plot the relative changes in recovery probability between historical and present periods at subcontinent scales <br />
 (3) Plot the response of drought recovery probability to precipitation changes under various climate scenarios
 
 ## Citing this work
