@@ -14,22 +14,22 @@ This repository contains the Python scripts to quantify global drought recovery 
 The scripts should be executed in the following order:
 
 #### 1. `global_drought_events.py`
-Loads the data and extracts characteristics of drought events
+Loads the data and extracts characteristics of drought events.
 
 #### 2. `find_severe_droughts.py`
-Identifies the most severe drought event for each grid during the past 66 years (1951-2016)
+Identifies the most severe drought event for each grid during the past 66 years (1951-2016).
 
 #### 3. `global_drought_recovery_probability.py`
-Calculates the likelihoods of drought recovery in both historcial (1951-1983) and present (1984-2016) periods <br />
-Evaluates whether changes in recovery probability between historical and present periods are statistically significant
+(1) Calculates the likelihoods of drought recovery in both historcial (1951-1983) and present (1984-2016) periods. <br />
+(2) Evaluates whether changes in recovery probability between historical and present periods are statistically significant.
 
 #### 4. `elasticity_analysis.py`
-Calculates the response of drought recovery probability to precipitation changes
+Calculates the response of drought recovery probability to precipitation changes.
 
 #### 5. `plot.py`
-(1) Plots the global recovery probability <br/>
-(2) Plots the relative changes in recovery probability between historical and present periods at subcontinent scales <br/>
-(3) Plots the response of drought recovery probability to precipitation changes under various climate scenarios
+(1) Plots the global recovery probability. <br/>
+(2) Plots the relative changes in recovery probability between historical and present periods at subcontinent scales. <br/>
+(3) Plots the response of drought recovery probability to precipitation changes under various climate scenarios.
 
 ## Citing this work
 
