@@ -23,9 +23,9 @@ Identifies the most severe drought event for each grid during the past 66 years 
 Calculates the response of drought recovery probability to precipitation changes.
 
 #### 5. `plot.py`
-(1) Plots the global recovery probability. <br/>
-(2) Plots the relative changes in recovery probability between historical and present periods at subcontinent scales. <br/>
-(3) Plots the response of drought recovery probability to precipitation changes under various climate scenarios.
+- Plots the global recovery probability. <br/>
+- Plots the relative changes in recovery probability between historical and present periods at subcontinent scales. <br/>
+- Plots the response of drought recovery probability to precipitation changes under various climate scenarios.
 
 ## Citation
 If you use this work, please consider citing our paper:
